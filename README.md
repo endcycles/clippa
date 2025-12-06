@@ -2,6 +2,8 @@
 
 Desktop YouTube clipper built with Tauri + React. It downloads trimmed segments with `yt-dlp`, saves them to a local library, and lets you replay, open, or delete clips from inside the app.
 
+<img width="912" height="712" alt="image" src="https://github.com/user-attachments/assets/fe42e26a-07bc-408b-b79f-7a8d485dd3b9" />
+
 ## Prerequisites
 - Node.js 18+ and pnpm (`corepack enable` or `npm i -g pnpm`)
 - Rust toolchain (`rustup`), needed by Tauri
